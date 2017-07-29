@@ -1,4 +1,5 @@
 <?php
   phpinfo();
 
-  echo "por finnnnnn"
+  echo "por finnnnnn ahoraaaaaaaa"
+  
