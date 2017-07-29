@@ -1,6 +1,7 @@
 <?php
   phpinfo();
-
+  
+  echo "Modificacion Nela";
 
 echo "ya estoy en el repo";
 
@@ -10,6 +11,4 @@ echo "ya estoy en el repo";
   /*
 	Modificado por Richard
   */
-
-/*	elias */
-/*2 elias*/ 
+/* sengunda prueba elias*/
